@@ -11,13 +11,13 @@
         A html page with in a html page
     </p>
     
-    <p><a href="/flower1.jpg" target="flower" width="1000" height="550" >Link 1</a>
+    <p><a href="/task-1/flower1.jpg" target="flower" width="1000" height="550" >Link 1</a>
 
-    <a href="/flower2.jpg" target="flower" height="550" width="1050">Link 2</a>
+    <a href="/task-1/flower2.jpg" target="flower" height="550" width="1050">Link 2</a>
 
-    <a href="/flower3.jpg" target="flower" height="550" width="1050">Link 3</a>
+    <a href="/task-1/flower3.jpg" target="flower" height="550" width="1050">Link 3</a>
 
-    <a href="/flower4.jpg" target="flower" height="550" width="1050">Link 4</a>
+    <a href="/task-1/flower4.jpg" target="flower" height="550" width="1050">Link 4</a>
     </p>
 </body>
 </html>
